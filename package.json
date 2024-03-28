@@ -1,0 +1,11 @@
+{
+  "name": "nato-phonetic-alphabet",
+  "version": "1.0.0",
+  "description": "Learn nato alphabet while playing with this UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tono Arnau",
+  "license": "ISC"
+}
