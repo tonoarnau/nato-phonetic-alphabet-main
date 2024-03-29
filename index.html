@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>NATO phonetic alphabet GAME!</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat:400,900'><link rel="stylesheet" href="./css/style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="main">
+  <span class="score"></span>
+  <span id="code" class="letter">A</span>
+  <label for="letter">What does the letter above mean on phonetic alphabet?</label>
+  <input type="text" placeholder="Type the answer..." name="letter" id="letter">
+  <button id="submit-btn" onclick="validateAnswer()">CHECK ANSWER</button>
+  <a href="tips.html" target="_blank">Need a Tip?</a>
+</div>
+
+<div class="starter">
+  <h1 class="feedback_result"></h1>
+  <p class="result_description"></p>
+  <button onclick="getRandomLetter()">START THE GAME</button>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/redux/4.0.1/redux.min.js'></script><script  src="./js/main.js"></script>
+
+</body>
+</html>
