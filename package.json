@@ -1,11 +1,25 @@
 {
-  "name": "nato-phonetic-alphabet",
+  "name": "nato-phonetic-alphabet-game",
   "version": "1.0.0",
-  "description": "Learn nato alphabet while playing with this UI",
+  "description": "Learn nato alphabet playing to this game",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonoarnau/nato-phonetic-alphabet-main.git"
+  },
+  "keywords": [
+    "nato",
+    "game",
+    "alphabet",
+    "learning"
+  ],
   "author": "Tono Arnau",
-  "license": "MIT"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonoarnau/nato-phonetic-alphabet-main/issues"
+  },
+  "homepage": "https://github.com/tonoarnau/nato-phonetic-alphabet-main#readme"
 }
