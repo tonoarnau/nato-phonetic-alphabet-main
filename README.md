@@ -5,7 +5,7 @@ The (International) Radiotelephony Spelling Alphabet, commonly known as the NATO
 ![Nato Game](./assets/game-banner.png)
 
 ## Learn the alphabet 
-With this mini game and score high to be the smartest guy in the jungle. If you need help, click on the **NEED HELP?** link to learn new words.
+Play this mini game and score high to be the smartest guy in the jungle. If you need help, click on the **Need a Tip?** link to learn new words and then come back to get a chance to be the winner.
 
 ![Tips](./assets/tips-banner.png)
 
