@@ -21,5 +21,13 @@
   "bugs": {
     "url": "https://github.com/tonoarnau/nato-phonetic-alphabet-main/issues"
   },
-  "homepage": "https://github.com/tonoarnau/nato-phonetic-alphabet-main#readme"
+  "homepage": "https://github.com/tonoarnau/nato-phonetic-alphabet-main#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "mocha": "^10.4.0"
+  }
 }
