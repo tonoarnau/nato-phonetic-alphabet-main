@@ -1,7 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2024 Tono Arnau Forner (https://codepen.io/tonoarnau/pen/XWQeMJJ)
-Fork of an original work NATO phonetic alphabet GAME! (https://codepen.io/tonoarnau/pen/XWQeMJJ)
+Copyright (c) 2024 Tono Arnau Forner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

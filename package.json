@@ -1,6 +1,6 @@
 {
   "name": "nato-phonetic-alphabet-game",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Learn nato alphabet playing to this game",
   "main": "index.html",
   "scripts": {
@@ -17,7 +17,7 @@
     "learning"
   ],
   "author": "Tono Arnau",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tonoarnau/nato-phonetic-alphabet-main/issues"
   },
